@@ -1,0 +1,1 @@
+Function Get-ChildItem in VBScript doesn't handle UNC paths reliably, especially with long paths or special characters.  It might return incomplete results or throw errors unexpectedly. This is different from PowerShell's Get-ChildItem.
